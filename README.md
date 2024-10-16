@@ -1,2 +1,2 @@
 # Data-Science-Internship
-Some of the work that I can make public from my Summer Internship as a Data Scientist
+A sample of my Jupyter Notebooks I worked on in My summer Internship as a Data Scientist. This excludes all of the work that was could potentially breach privacy of my employer.
